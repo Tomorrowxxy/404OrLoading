@@ -1,6 +1,6 @@
 一款适合做404页面/引导页等的html+css的网页
 
-![image](https://github.com/Tomorrowxxy/html-css-js/master/1.jpg)
+![image](https://github.com/Tomorrowxxy/html-css-js/blob/master/1.jpg)
 
 图片中的字可以自行修改~
 
